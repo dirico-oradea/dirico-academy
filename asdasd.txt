@@ -3,3 +3,4 @@ hello
 # new line 2
 # new line 3
 - new line for commit and stage
+# again a newline
